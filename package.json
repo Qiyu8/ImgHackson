@@ -2,7 +2,7 @@
     "name": "hack",
     "dependencies": {
         "chokidar": "^1.7.0",
-        "electron": "1.7.9",
+        "electron": "15.5.5",
         "gm": "1.23.0",
         "nedb": "1.8.0",
         "node-tesseract": "0.2.7",
