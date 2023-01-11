@@ -3,7 +3,7 @@
     "dependencies": {
         "chokidar": "^1.7.0",
         "electron": "1.7.9",
-        "gm": "1.23.0",
+        "gm": "1.25.0",
         "nedb": "1.8.0",
         "node-tesseract": "0.2.7",
         "vue": "^2.5.9"
